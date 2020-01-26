@@ -7,7 +7,8 @@ of the most advanced machine learning techniques to study their customers. The c
 -Used Python programming language to solve the problem statements.
 
 Statement:-
--Use classification algorithm which is Logistics Regression,SVM,Random Forest,XGBoost and compare the accuracy of each model whos give high accuracy.
+-Use classification algorithm which is Logistics Regression,SVM,Random Forest,XGBoost and compare the accuracy of each model 
+whos give high accuracy.
 -Use Advanced data visualization using ggplot2.
 -Use customer segentation using K-means Clustering.
 -Twitter sentiment analysis of AmazonIndian,Flipkart and Snapdeal using Twitter API.
